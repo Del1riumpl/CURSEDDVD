@@ -14,8 +14,8 @@ body {
   position: absolute;
   left: 0px;
   top: 0px;
-  height: 150px;
-  width: 200px;
+  height: 250px;
+  width: 400px;
   mask: url("https://upload.wikimedia.org/wikipedia/commons/9/9b/DVD_logo.svg");
   -webkit-mask: url("https://upload.wikimedia.org/wikipedia/commons/9/9b/DVD_logo.svg");
   background-repeat: no-repeat;
